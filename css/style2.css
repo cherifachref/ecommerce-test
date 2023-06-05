@@ -1,8 +1,7 @@
 .drag{
-    color: black;
+    color: rgb(97, 94, 255);
 }
 
 .drag:hover{
-    color: rgb(72, 72, 252);
-    text-decoration:underline;
+    color: rgb(255, 81, 0);
 }
